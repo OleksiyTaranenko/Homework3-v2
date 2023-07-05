@@ -1,6 +1,3 @@
-//Hi again dear teacher :)
-//Please comment this page after checking
-
 let a = 146;
 let b = 73;
 let c = 98;
